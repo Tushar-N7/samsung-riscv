@@ -1,0 +1,2 @@
+I’m compiling a C program that adds numbers from 1 to 7. First, I used a basic setting to create an object file (sum1ton.o). Then, I tried a faster setting but stopped it. To run the program, I need to make an executable file (e.g., sum1ton) and run it on a RISC-V system or emulator.
+This RISC-V assembly code handles program startup, initializing memory sections, running global constructors, executing the main function, and then performing cleanup via atexit and global destructors.
