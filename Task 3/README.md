@@ -1,4 +1,4 @@
-# RISC-V Instruction Analysis Project
+# RISC-V Project Analysis
 
 ## Overview
 
