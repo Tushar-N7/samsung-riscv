@@ -7,7 +7,7 @@ For any questions or further details, please contact:
 
 ---
 
-This repository contains a collection of six tasks completed as part of the **samsung-riscv** initiative. Each task is documented and organized into its own folder for easy access and reference.
+This repository contains a collection of five tasks completed as part of the **samsung-riscv** initiative. Each task is documented and organized into its own folder for easy access and reference.
 
 ## Repository Structure
 
@@ -18,7 +18,6 @@ Click on the links below to navigate to the specific task folder:
 3. **[Task 3](./Task 3/)**
 4. **[Task 4](./Task 4/)**
 5. **[Task 5](./Task 5/)**
-   
 
 ## Purpose
 
