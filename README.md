@@ -1,9 +1,8 @@
 # samsung-riscv
 
 For any questions or further details, please contact:  
-**[Your Name]**  
-**[Your Position]**  
-**[Your Email Address]**  
+**[Name: Tushar.N]**  
+**[Email: tusharn2534@gmail.com]**  
 
 ---
 
