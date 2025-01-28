@@ -13,11 +13,11 @@ This repository contains a collection of five tasks completed as part of the **s
 
 Click on the links below to navigate to the specific task folder:
 
-1. **[Task 1](./Task 1/)**
-2. **[Task 2](./Task 2/)**
-3. **[Task 3](./Task 3/)**
-4. **[Task 4](./Task 4/)**
-5. **[Task 5](./Task 5/)**
+1. **[Task 1](./Task%201/)**
+2. **[Task 2](./Task%202/)**
+3. **[Task 3](./Task%203/)**
+4. **[Task 4](./Task%204/)**
+5. **[Task 5](./Task%205/)**
 
 ## Purpose
 
