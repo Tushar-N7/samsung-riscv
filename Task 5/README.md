@@ -1,3 +1,5 @@
+![Screenshot 2025-01-28 230802](https://github.com/user-attachments/assets/ab17cb90-b93b-4d29-a757-603c6c34539a)
+
 # **IoT-Based Industrial Equipment Predictive Maintenance System**
 
 ## **Overview**
