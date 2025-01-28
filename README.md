@@ -3,7 +3,7 @@
 For any questions or further details, please contact:  
 **Name: Tushar.N**  
 **Email: tusharn2534@gmail.com**  
-**College: Sahyadri College of Engineering and Management **  
+**College: Sahyadri College of Engineering and Management**  
 
 ---
 
