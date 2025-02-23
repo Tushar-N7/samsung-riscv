@@ -41,24 +41,6 @@ Before getting started, ensure that the following software is installed:
 1. Connect the VSD Squadron Mini microcontroller to your PC via a USB cable.
 2. Connect the LEDs to the appropriate pins on the microcontroller.
 
-### Running the Assistant
-1. Clone this repository to your local machine:
-    ```bash
-    git clone https://github.com/your-username/BrightBot-AI.git
-    ```
-
-2. Install the required libraries:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Run the Python script to start the voice assistant:
-    ```bash
-    python brightbot_ai.py
-    ```
-
-4. Once the assistant is running, speak commands like "Turn on LED" or "Turn off LED" to control the LEDs.
-
 ## Contributing
 Feel free to fork the repository and submit pull requests to improve the assistant or add new features!
 
